@@ -66,9 +66,9 @@
     "sinon-expect": "^0.3.0"
   },
   "dependencies": {
-    "jsonwebtoken": "^8.2.1",
-    "request": "^2.83.0",
-    "uuid": "^2.0.2"
+    "jsonwebtoken": "^8.3.0",
+    "request": "^2.88.0",
+    "uuid": "^3.3.2"
   },
   "license": "MIT"
 }
